@@ -18,7 +18,7 @@ The task here inludes the the following:
 
 Task 1               |    Task 2              |   Task 3
 :-------------------:|:----------------------:|:---------------:
-![](X1.png)         :|:   ![](X2.png)        :|:  ![](X3.png)
+![](X1.png)          |   ![](X2.png)          |  ![](X3.png)
 
 
 
