@@ -16,7 +16,7 @@ The task here inludes the the following:
 3. Highlight employees with "E" as initials and also highlighting the highest earner (Green) and the lowest earner (Red).
 
 Task 1               |    Task 2              |   Task 3
-:-------------------:|:----------------------:|:---------------
+:-------------------:|:----------------------:|:---------------:
 ![](X1.png)         :|:   ![](X2.png)        :|:  ![](X3.png)
 
 
