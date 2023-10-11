@@ -42,6 +42,7 @@ The analysis had explored the total revenue, profit, average order metrics, tota
 
 Upon completing the analysis, meaningful conclusions will be drawn, and recommendations will be offered based on the findings. The insights can be utilized by businesses to optimize pricing strategies, identify profitable product lines, and understand the sales patterns that lead to higher profits
 
+![](X6.png)
 
 
 
