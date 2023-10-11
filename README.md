@@ -30,7 +30,7 @@ The primary goal of the analysis is to extract valuable insights from the sales 
 The analysis had demonstrated a range of essential data analysis skills, such as:
 - Data extraction
 - Manipulation, and Visualization
-### It had also showcased the application of statistical measures and conditional logic to make data-driven decisions.
+- Statistical measures and conditional logic to make data-driven decisions.
 
 ## Visualization
 
